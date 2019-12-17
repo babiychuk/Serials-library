@@ -1,3 +1,5 @@
+Приложение адаптивное только под мобильные устройства
+
 You can saw work project here: https://babiychuk.github.io/serials-library/#/
 
 Немного про работу:
