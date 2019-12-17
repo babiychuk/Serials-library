@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/serials-library/static/js/main.e9759ee2.chunk.js",
+    "main.js.map": "/serials-library/static/js/main.e9759ee2.chunk.js.map",
+    "runtime-main.js": "/serials-library/static/js/runtime-main.f5728a12.js",
+    "runtime-main.js.map": "/serials-library/static/js/runtime-main.f5728a12.js.map",
+    "static/css/2.c51b6406.chunk.css": "/serials-library/static/css/2.c51b6406.chunk.css",
+    "static/js/2.301ee21e.chunk.js": "/serials-library/static/js/2.301ee21e.chunk.js",
+    "static/js/2.301ee21e.chunk.js.map": "/serials-library/static/js/2.301ee21e.chunk.js.map",
+    "index.html": "/serials-library/index.html",
+    "precache-manifest.443f9d5afdc94b3f8eddd71537dd2f90.js": "/serials-library/precache-manifest.443f9d5afdc94b3f8eddd71537dd2f90.js",
+    "service-worker.js": "/serials-library/service-worker.js",
+    "static/css/2.c51b6406.chunk.css.map": "/serials-library/static/css/2.c51b6406.chunk.css.map",
+    "static/media/not_found.jpg": "/serials-library/static/media/not_found.dfb4c9c2.jpg",
+    "static/media/tv.jpg": "/serials-library/static/media/tv.33174a35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5728a12.js",
+    "static/css/2.c51b6406.chunk.css",
+    "static/js/2.301ee21e.chunk.js",
+    "static/js/main.e9759ee2.chunk.js"
+  ]
+}
